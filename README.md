@@ -8,6 +8,6 @@
 #### Engage Project By Abhigya Verma
 
 ## Functional Features
-![Alt text](Media/6.png)
+![Alt text](Media/F1.png)
 
-![Alt text](Media/7.png)
+![Alt text](Media/F2.png)
