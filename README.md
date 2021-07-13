@@ -12,7 +12,7 @@
 # Functional Features
 
 ![Alt text](Media/F1.png)
-![Alt text](Media/F1.png)
+![Alt text](Media/F2.png)
 
 # Technologies
 
