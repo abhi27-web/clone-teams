@@ -5,6 +5,10 @@
 <!-- Add banner here -->
 ![Project Banner](Media/1.png)
 
+# Agile Methodology
+
+![Alt text](Media/3.png)
+
 # Functional Features
 
 ![Alt text](Media/F1.png)
@@ -12,6 +16,7 @@
 
 # Technologies
 
-![Alt text](Media/Tech1.png)
-![Alt text](Media/Tech2.png)
+![Alt text](Media/Tech.png)
+
+
 
