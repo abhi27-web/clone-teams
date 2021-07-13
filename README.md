@@ -7,6 +7,11 @@
 
 # Functional Features
 
-<img src="Media/F1.png" width="960" height="540">
-<img src="Media/F2.png" width="960" height="540">
+![Alt text](Media/F1.png)
+![Alt text](Media/F1.png)
+
+# Technologies
+
+![Alt text](Media/Tech1.png)
+![Alt text](Media/Tech2.png)
 
