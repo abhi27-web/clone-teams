@@ -8,6 +8,7 @@
 #### Engage Project By Abhigya Verma
 
 ## Functional Features
-![Alt text](Media/F1.png =960x540)
+
+<img src="Media/F1.png" width="960" height="540">
 
 ![Alt text](Media/F2.png)
